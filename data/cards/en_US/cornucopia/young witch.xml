@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Young Witch</name>
+    <set>cornucopia</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>4</cost>
+    <text>
+        <line style="bold">+2 Cards</line>
+        <line>Discard 2 cards. Each other player may reveal a Bane card from his hand. If he doesn't, he gains a Curse.</line>
+        <line style="separator">______________________</line>
+        <line>Setup: Add an extra Kingdom card pile costing $2$ or $3$ to the Supply. Cards from that pile are Bane cards.</line>
+    </text>
+</card>

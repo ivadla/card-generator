@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Goons</name>
+    <set>prosperity</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>6</cost>
+    <text>
+        <line style="bold">+1 Buy</line>
+        <line style="bold">+$2$</line>
+        <line>Each other player discards down to 3 cards in hand.</line>
+        <line style="separator">----------</line>
+        <line>While this is in play, when you buy a card, +1%VP%.</line>
+    </text>
+</card>

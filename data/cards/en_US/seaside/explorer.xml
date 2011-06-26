@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Explorer</name>
+    <set>seaside</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line>You may reveal a Province card from your hand. If you do, gain a Gold card, putting it into your hand. Otherwise, gain a Silver card, putting it into your hand.</line>
+    </text>
+</card>

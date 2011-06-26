@@ -1,0 +1,35 @@
+This is a card generator for dominion cards. It takes a template(svg), a card description (xml), 
+an image for the card(svg, png or jpg) and a specification for the image and generates the card
+as a svg-file.
+
+Compile and Run:
+----------------
+Basically you just have to compile all the java files in the src directory 
+and and create a jar file. The main class is just called Main. 
+
+You can use ant to do that:
+ant jar
+Alternatively you can import this project into your favorite java IDE and compile it there. Make sure 
+that you put the libraries in libs/ in your classpath.
+
+To run the card generator use:
+
+java -jar card-generator.jar <template> <image> <output directory> <card-xml>
+
+<template>  is the xml file with the configuration of the template, or a directory which contains 
+            such a file named config.xml. See data/example-template-config.xml
+<image>	    the xml file describing the image, or a directory containing such a file with the same 
+            name as the card, or a directory containing a directory with the name of the set to
+            which the card belongs. The set directory should contain the image xml file with the same
+            name as the card. See data/example-image.xml
+<output directory> final svg file will be put in <output directory>/svg/<name of the set>/<cardname>.xml
+<card-xml>  one or more xml files describing the cards. If it is a directory it will be search recursively
+            for .xml files. data/cards/en_US/ contains all the official dominion cards released so far
+
+Examples of templates and images can be found in the repository for the openclipart cards:
+ http://ivadla.github.com/dominion-images/
+
+Creating new card descriptions
+------------------------------
+the cards in data/cards/en_US/ can be used as a template. For new official sets the class src/ParseDiehrstraitsCom.java
+can be used to parse the descriptions form http://dominion.diehrstraits.com/

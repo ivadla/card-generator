@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Grand Market</name>
+    <set>prosperity</set>
+    <type typeTemplate="action">Action</type>
+    <cost>6</cost>
+    <text>
+        <line style="bold">+1 Card</line>
+        <line style="bold">+1 Action</line>
+        <line style="bold">+1 Buy</line>
+        <line style="bold">+$2$</line>
+        <line style="separator">----------</line>
+        <line>You can't buy this if you have any Copper in play.</line>
+    </text>
+</card>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Hamlet</name>
+    <set>cornucopia</set>
+    <type typeTemplate="action">Action</type>
+    <cost>2</cost>
+    <text>
+        <line style="bold">+1 Card</line>
+        <line style="bold">+1 Action</line>
+        <line></line>
+        <line>You may discard a card; if you do +1 Action.</line>
+        <line></line>
+        <line>You may discard a card; if you do +1 Buy.</line>
+    </text>
+</card>

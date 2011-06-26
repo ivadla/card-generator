@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Moat</name>
+    <set>base</set>
+    <type typeTemplate="reaction">Action - Reaction</type>
+    <cost>2</cost>
+    <text>
+        <line style="bold">+2 Cards</line>
+        <line style="separator"></line>
+        <line>When another player plays an Attack card, you may reveal this from your hand. If you do, you are unaffected by that Attack.</line>
+    </text>
+</card>

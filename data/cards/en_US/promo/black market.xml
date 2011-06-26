@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><card xsi:noNamespaceSchemaLocation="../Card.xsd">
+	<name>Black Market</name>
+	<set>promo</set>
+	<!--Possible Values for typeTemplate are action, action-victory, duration, reaction, treasure, treasure-victory and victory-->
+	<type typeTemplate="action">Action</type>
+	<cost>3</cost>
+	<text>
+		<line>+ $2$</line>
+		<line>Reveal the top 3 cards of the Black Market deck. You may buy one of them immediately. Put the unbought cards on the bottom of the Black Market deck in any order.</line>
+		<line style="italic">(Before the game, make a Black Market deck out of one copy of each Kingdom card not in the supply.)</line></text>
+</card>
+

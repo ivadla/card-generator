@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Bag of Gold</name>
+    <set>cornucopia</set>
+    <type typeTemplate="action">Action - Prize</type>
+    <cost>0</cost>
+    <costIsSpecial>true</costIsSpecial>
+    <text>
+        <line style="bold">+1 Action</line>
+        <line></line>
+        <line>Gain a Gold, putting it on top of your deck.</line>
+        <line></line>
+        <line></line>
+        <line style="italic">(This is not in the Supply.)</line>
+    </text>
+</card>

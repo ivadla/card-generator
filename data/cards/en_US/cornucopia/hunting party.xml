@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Hunting Party</name>
+    <set>cornucopia</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line style="bold">+1 Card</line>
+        <line style="bold">+1 Action</line>
+        <line>Reveal your hand. Reveal cards from your deck until you reveal a card that isn't a duplicate of one in your hand and discard the rest.</line>
+    </text>
+</card>

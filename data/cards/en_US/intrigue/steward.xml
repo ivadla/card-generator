@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Steward</name>
+    <set>intrigue</set>
+    <type typeTemplate="action">Action</type>
+    <cost>3</cost>
+    <text>
+        <line>Choose one: +2 Cards; or +$2$; or trash 2 cards from your hand.</line>
+    </text>
+</card>

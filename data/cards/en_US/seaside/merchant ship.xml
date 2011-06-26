@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Merchant Ship</name>
+    <set>seaside</set>
+    <type typeTemplate="duration">Action - Duration</type>
+    <cost>5</cost>
+    <text>
+        <line>Now and at the start of your next turn: +$2$.</line>
+    </text>
+</card>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Mountebank</name>
+    <set>prosperity</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>5</cost>
+    <text>
+        <line>+$2$</line>
+        <line>Each other player may discard a Curse. If he doesn't, he gains a Curse and a Copper.</line>
+    </text>
+</card>

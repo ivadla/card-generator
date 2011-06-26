@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Scrying Pool</name>
+    <set>alchemy</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>2</cost>
+    <potionCost>1</potionCost>
+    <text>
+        <line>+1 Action</line>
+        <line>Each player (including you) reveals the top card of his deck and either discards it or puts it back, your choice. Then reveal cards from the top of your deck until revealing one that isn't an Action.</line>
+        <line>Put all of your revealed cards into your hand.</line>
+    </text>
+</card>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Smugglers</name>
+    <set>seaside</set>
+    <type typeTemplate="action">Action</type>
+    <cost>3</cost>
+    <text>
+        <line>Gain a copy of a card costing up to $6$ that the player to your right gained on his last turn.</line>
+    </text>
+</card>

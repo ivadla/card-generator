@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Familiar</name>
+    <set>alchemy</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>3</cost>
+    <potionCost>1</potionCost>
+    <text>
+        <line>+1 Card</line>
+        <line>+1 Action</line>
+        <line>Each other player gains a curse.</line>
+    </text>
+</card>

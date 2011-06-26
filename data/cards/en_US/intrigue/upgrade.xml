@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Upgrade</name>
+    <set>intrigue</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line style="bold">+1 Card</line>
+        <line style="bold">+1 Action</line>
+        <line></line>
+        <line>Trash a card from your hand. Gain a card costing exactly $1$ more than it.</line>
+    </text>
+</card>

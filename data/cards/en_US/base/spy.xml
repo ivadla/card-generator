@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Spy</name>
+    <set>base</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>4</cost>
+    <text>
+        <line style="bold">+1 Card</line>
+        <line style="bold">+1 Action</line>
+        <line></line>
+        <line>Each player (including you) reveals the top card of his deck and either discards it or puts it back, your choice.</line>
+    </text>
+</card>

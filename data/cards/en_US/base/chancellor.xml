@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Chancellor</name>
+    <set>base</set>
+    <type typeTemplate="action">Action</type>
+    <cost>3</cost>
+    <text>
+        <line>+$2$</line>
+        <line></line>
+        <line>You may immediately put your deck into your discard pile.</line>
+    </text>
+</card>

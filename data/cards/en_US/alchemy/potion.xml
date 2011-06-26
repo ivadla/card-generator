@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Potion</name>
+    <set>alchemy</set>
+    <type typeTemplate="treasure">Treasure</type>
+    <cost>4</cost>
+    <text>
+        <line>Worth 1 Potion.</line>
+    </text>
+</card>

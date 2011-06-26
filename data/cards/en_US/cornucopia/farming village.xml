@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Farming Village</name>
+    <set>cornucopia</set>
+    <type typeTemplate="action">Action</type>
+    <cost>4</cost>
+    <text>
+        <line style="bold">+2 Actions</line>
+        <line></line>
+        <line>Reveal cards from the top of your deck until you reveal an Action or Treasure card. Put that card into your hand and discard the other cards.</line>
+    </text>
+</card>

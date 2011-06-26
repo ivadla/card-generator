@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Bureaucrat</name>
+    <set>base</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>4</cost>
+    <text>
+        <line>Gain a Silver card; put it on top of your deck. Each other player reveals a Victory card from his hand and puts it on his deck (or reveals a hand with no Victory cards).</line>
+    </text>
+</card>

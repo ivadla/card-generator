@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Feast</name>
+    <set>base</set>
+    <type typeTemplate="action">Action</type>
+    <cost>4</cost>
+    <text>
+        <line>Trash this card. Gain a card costing up to $5$.</line>
+    </text>
+</card>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Loan</name>
+    <set>prosperity</set>
+    <type typeTemplate="treasure">Treasure</type>
+    <coinValue>1</coinValue>
+    <cost>3</cost>
+    <text>
+        <line>When you play this, reveal cards from your deck until you reveal a Treasure. Discard it or trash it. Discard the other cards.</line>
+    </text>
+</card>

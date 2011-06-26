@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Philosopher's Stone</name>
+    <set>alchemy</set>
+    <type typeTemplate="treasure">Treasure</type>
+    <cost>3</cost>
+    <potionCost>1</potionCost>
+    <text>
+        <line>When you play this, count your deck and discard pile.</line>
+        <line>Worth 1 Coin per 5 cards total between them (rounded down).</line>
+    </text>
+</card>

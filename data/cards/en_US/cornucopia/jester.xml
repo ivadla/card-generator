@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Jester</name>
+    <set>cornucopia</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>5</cost>
+    <text>
+        <line>+$2$</line>
+        <line>Each other player discards the top card of his deck. If it's a Victory card he gains a Curse. Otherwise he gains a copy of the discarded card or you do, your choice.</line>
+    </text>
+</card>

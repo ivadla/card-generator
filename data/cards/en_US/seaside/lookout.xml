@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Lookout</name>
+    <set>seaside</set>
+    <type typeTemplate="action">Action</type>
+    <cost>3</cost>
+    <text>
+        <line style="bold">+1 Action</line>
+        <line></line>
+        <line>Look at the top 3 cards of your deck. Trash one of them. Discard one of them. Put the other one on top of your deck.</line>
+    </text>
+</card>

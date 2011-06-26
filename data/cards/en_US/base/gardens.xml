@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Gardens</name>
+    <set>base</set>
+    <type typeTemplate="victory">Victory</type>
+    <cost>4</cost>
+    <text>
+        <line>Worth 1 %VP% for every 10 cards in your deck (rounded down).</line>
+    </text>
+</card>

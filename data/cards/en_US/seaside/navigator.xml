@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Navigator</name>
+    <set>seaside</set>
+    <type typeTemplate="action">Action</type>
+    <cost>4</cost>
+    <text>
+        <line>+$2$</line>
+        <line></line>
+        <line>Look at the top 5 cards of your deck. Either discard all of them, or put them back on top of your deck in any order.</line>
+    </text>
+</card>

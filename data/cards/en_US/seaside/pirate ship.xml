@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Pirate Ship</name>
+    <set>seaside</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>4</cost>
+    <text>
+        <line>Choose one: Each other player reveals the top 2 cards of his deck, trashes a revealed Treasure that you choose, discards the rest, and if anyone trashed a Treasure you take a Coin token; or, +$1$ per Coin token you've taken with Pirate Ships this game.</line>
+    </text>
+</card>

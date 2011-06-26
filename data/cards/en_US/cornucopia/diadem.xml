@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Diadem</name>
+    <set>cornucopia</set>
+    <type typeTemplate="treasure">Treasure - Prize</type>
+    <cost>0</cost>
+    <costIsSpecial>true</costIsSpecial>
+    <coinValue>2</coinValue>
+    <text>
+        <line>When you play this, +$1$ per unused Action you have</line>
+        <line>(Action, not Action card).</line>
+        <line></line>
+        <line style="italic">(This is not in the Supply.)</line>
+    </text>
+</card>

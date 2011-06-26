@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Wishing Well</name>
+    <set>intrigue</set>
+    <type typeTemplate="action">Action</type>
+    <cost>3</cost>
+    <text>
+        <line style="bold">+1 Card</line>
+        <line style="bold">+1 Action</line>
+        <line></line>
+        <line>Name a card. Reveal the top card of your deck. If it is the named card, put it into your hand.</line>
+    </text>
+</card>

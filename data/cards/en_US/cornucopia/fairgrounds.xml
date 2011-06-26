@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Fairgrounds</name>
+    <set>cornucopia</set>
+    <type typeTemplate="victory">Victory</type>
+    <cost>6</cost>
+    <text>
+        <line>Worth 2%VP% for every 5 differently named cards in your deck (rounded down).</line>
+    </text>
+</card>

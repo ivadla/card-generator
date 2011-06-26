@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Rabble</name>
+    <set>prosperity</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>5</cost>
+    <text>
+        <line style="bold">+3 Cards</line>
+        <line></line>
+        <line>Each other player reveals the top 3 cards of his deck, discards the revealed Actions and Treasures, and puts the rest back on top in any order he chooses.</line>
+    </text>
+</card>

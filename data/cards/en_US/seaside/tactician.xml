@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Tactician</name>
+    <set>seaside</set>
+    <type typeTemplate="duration">Action - Duration</type>
+    <cost>5</cost>
+    <text>
+        <line>Discard your hand. If you discarded any cards this way, then at the start of your next turn, +5 Cards, +1 Buy, and +1 Action.</line>
+    </text>
+</card>

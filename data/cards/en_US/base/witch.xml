@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Witch</name>
+    <set>base</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>5</cost>
+    <text>
+        <line style="bold">+2 Cards</line>
+        <line></line>
+        <line>Each other player gains a Curse card.</line>
+    </text>
+</card>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Remake</name>
+    <set>cornucopia</set>
+    <type typeTemplate="action">Action</type>
+    <cost>4</cost>
+    <text>
+        <line>Do this twice: Trash a card from your hand then gain a card costing exactly $1$ more than the trashed card.</line>
+    </text>
+</card>

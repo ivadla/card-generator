@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Mine</name>
+    <set>base</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line>Trash a Treasure card from your hand. Gain a Treasure card costing up to $3$ more; put it into your hand.</line>
+    </text>
+</card>

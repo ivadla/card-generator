@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Mint</name>
+    <set>prosperity</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line>You may reveal a Treasure card from your hand. Gain a copy of it.</line>
+        <line style="separator">----------</line>
+        <line>When you buy this, trash all Treasures you have in play.</line>
+    </text>
+</card>

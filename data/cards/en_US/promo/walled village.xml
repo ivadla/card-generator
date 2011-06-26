@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+	<name>Walled Village</name>
+	<set>promo</set>
+	<!--Possible Values for typeTemplate are action, action-victory, duration, reaction, treasure, treasure-victory and victory-->
+	<type typeTemplate="action">Action</type>
+	<cost>4</cost>
+	<text>
+		<line style="bold">+ 1 Card</line>
+		<line style="bold">+ 2 Actions</line>
+		<line style="separator"></line>
+		<line>At the start of Clean-up, if you have this and no more than one other Action card in play, you may put this on top of your deck.</line>
+	</text>
+</card>

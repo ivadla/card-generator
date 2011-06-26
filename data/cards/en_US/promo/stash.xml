@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+	<name>Stash</name>
+	<set>promo</set>
+	<!--Possible Values for typeTemplate are action, action-victory, duration, reaction, treasure, treasure-victory and victory-->
+	<type typeTemplate="treasure">Treasure</type>
+	<cost>5</cost>
+	<coinValue>2</coinValue>
+	<text>
+		<line style="separator"></line><line>When you shuffle, you may put this anywhere in your deck.</line>
+		</text>
+</card>
+

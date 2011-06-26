@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Golem</name>
+    <set>alchemy</set>
+    <type typeTemplate="action">Action</type>
+    <cost>4</cost>
+    <potionCost>1</potionCost>
+    <text>
+        <line>Reveal cards from your deck until you reveal 2 Action cards other than Golem Cards.</line>
+        <line>Discard the other cards, then play the Action cards in either order.</line>
+    </text>
+</card>

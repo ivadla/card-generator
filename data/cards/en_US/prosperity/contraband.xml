@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Contraband</name>
+    <set>prosperity</set>
+    <type typeTemplate="treasure">Treasure</type>
+    <coinValue>3</coinValue>
+    <cost>5</cost>
+    <text>
+        <line style="bold">+1 Buy</line>
+        <line>When you play this, the player to your left names a card. You can't buy that card this turn.</line>
+    </text>
+</card>

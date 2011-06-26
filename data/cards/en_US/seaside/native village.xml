@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Native Village</name>
+    <set>seaside</set>
+    <type typeTemplate="action">Action</type>
+    <cost>2</cost>
+    <text>
+        <line style="bold">+2 Actions</line>
+        <line>Choose one: Set aside the top card of your deck face down on your Native Village mat; or put all the cards from your mat into your hand.</line>
+        <line>You may look at the cards on your mat at any time; return them to your deck at the end of the game.</line>
+    </text>
+</card>

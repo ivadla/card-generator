@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Possession</name>
+    <set>alchemy</set>
+    <type typeTemplate="action">Action</type>
+    <cost>6</cost>
+    <potionCost>1</potionCost>
+    <text>
+        <line>The player to your left takes an extra turn after this one, in which you can see all cards he can and make all decisions for him.</line>
+        <line>Any cards he would gain on that turn, you gain instead; any cards of his that are trashed are set aside and returned to his discard pile at end of turn.</line>
+    </text>
+</card>

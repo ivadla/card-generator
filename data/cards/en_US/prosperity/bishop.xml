@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Bishop</name>
+    <set>prosperity</set>
+    <type typeTemplate="action">Action</type>
+    <cost>4</cost>
+    <text>
+        <line>+$1$</line>
+        <line>+1%VP%</line>
+        <line>Trash a card from your hand. +%VP% equal to half its cost in coins, rounded down.</line>
+        <line>Each other player may trash a card from his hand.</line>
+    </text>
+</card>

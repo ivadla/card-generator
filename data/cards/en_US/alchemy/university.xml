@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>University</name>
+    <set>alchemy</set>
+    <type typeTemplate="action">Action</type>
+    <cost>2</cost>
+    <potionCost>1</potionCost>
+    <text>
+        <line>+2 Actions</line>
+        <line>You may gain an Action card costing up to 5 Coins.</line>
+    </text>
+</card>

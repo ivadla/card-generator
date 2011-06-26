@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Cutpurse</name>
+    <set>seaside</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>4</cost>
+    <text>
+        <line style="bold">+$2$</line>
+        <line></line>
+        <line>Each other player discards a Copper card (or reveals a hand with no Copper).</line>
+    </text>
+</card>

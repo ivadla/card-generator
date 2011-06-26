@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Lighthouse</name>
+    <set>seaside</set>
+    <type typeTemplate="duration">Action - Duration</type>
+    <cost>2</cost>
+    <text>
+        <line style="bold">+1 Action</line>
+        <line>Now and at the start of your next turn: +$1$.</line>
+        <line style="separator"></line>
+        <line>While this is in play, when another player plays an Attack card, it doesn't affect you.</line>
+    </text>
+</card>

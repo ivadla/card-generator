@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Horse Traders</name>
+    <set>cornucopia</set>
+    <type typeTemplate="reaction">Action - Reaction</type>
+    <cost>4</cost>
+    <text>
+        <line style="bold">+1 Buy</line>
+        <line style="bold">+$3$</line>
+        <line style="bold">Discard 2 Cards</line>
+        <line style="separator">________________</line>
+        <line>When another player plays an Attack card, you may set this aside from your hand. If you do, then at the start of your next turn, +1 Card and return this to your hand.</line>
+    </text>
+</card>

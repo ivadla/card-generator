@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Vineyard</name>
+    <set>alchemy</set>
+    <type typeTemplate="victory">Victory</type>
+    <cost>0</cost>
+    <potionCost>1</potionCost>
+    <text>
+        <line>Worth 1 Victory for every 3 Action cards in your deck (rounded down).</line>
+    </text>
+</card>

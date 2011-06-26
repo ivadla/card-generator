@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Counting House</name>
+    <set>prosperity</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line>Look through your discard pile, reveal any number of Copper cards from it, and put them into your hand.</line>
+    </text>
+</card>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+	<name>Hoard</name>
+	<set>prosperity</set>
+	<!--Possible Values for typeTemplate are action, action-victory, duration, reaction, treasure, treasure-victory and victory-->
+	<type typeTemplate="treasure">Treasure</type>
+	<cost>6</cost>
+	<coinValue>2</coinValue>
+	<text>
+		<line style="separator"></line><line>While this is in play, when you buy a Victory card, gain a Gold.</line>
+		</text>
+</card>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Envoy</name>
+    <set>promo</set>
+    <type typeTemplate="action">Action</type>
+    <cost>4</cost>
+    <text>
+        <line>Reveal the top 5 cards of your deck. The player to your left chooses one for you to discard. Draw the rest.</line>
+    </text>
+</card>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Treasury</name>
+    <set>seaside</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line style="bold">+1 Card</line>
+        <line style="bold">+1 Action</line>
+        <line style="bold">+$1$</line>
+        <line style="separator"></line>
+        <line>When you discard this from play, if you didn't buy a Victory card this turn, you may put this on top of your deck.</line>
+    </text>
+</card>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Vault</name>
+    <set>prosperity</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line style="bold">+2 Cards</line>
+        <line></line>
+        <line>Discard any number of cards. +$1$ per card discarded.</line>
+        <line>Each other player may discard 2 cards. If he does, he draws a card.</line>
+    </text>
+</card>

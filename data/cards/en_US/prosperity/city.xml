@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+	<name>City</name>
+	<set>prosperity</set>
+	<!--Possible Values for typeTemplate are action, action-victory, duration, reaction, treasure, treasure-victory and victory-->
+	<type typeTemplate="action">Action</type>
+	<cost>5</cost>
+	<text>
+		<line style="bold">+1 Card</line>
+		<line style="bold">+2 Actions</line>
+		<line></line>
+		<line>If there are one or more empty Supply piles, +1 Card. If there are two or more, +$1$ and +1 Buy.</line></text>
+</card>
+

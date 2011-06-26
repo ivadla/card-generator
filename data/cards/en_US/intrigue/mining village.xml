@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Mining Village</name>
+    <set>intrigue</set>
+    <type typeTemplate="action">Action</type>
+    <cost>4</cost>
+    <text>
+        <line style="bold">+1 Card</line>
+        <line style="bold">+2 Actions</line>
+        <line></line>
+        <line>You may trash this card immediately. If you do, +$2$.</line>
+    </text>
+</card>

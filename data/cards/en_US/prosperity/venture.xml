@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Venture</name>
+    <set>prosperity</set>
+    <type typeTemplate="treasure">Treasure</type>
+    <cost>5</cost>
+    <coinValue>1</coinValue>
+    <text>
+        <line>When you play this, reveal cards from your deck until you reveal a Treasure. Discard the other cards. Play that Treasure.</line>
+    </text>
+</card>

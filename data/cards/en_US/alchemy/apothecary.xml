@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Apothecary</name>
+    <set>alchemy</set>
+    <type typeTemplate="action">Action</type>
+    <cost>2</cost>
+    <potionCost>1</potionCost>
+    <text>
+        <line>+1 Card</line>
+        <line>+1 Action</line>
+        <line>Reveal the top 4 cards of your deck. Put the revealed Coppers and Potions into your hand. Put the other cards back on top in any order.</line>
+    </text>
+</card>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Duke</name>
+    <set>intrigue</set>
+    <type typeTemplate="victory">Victory</type>
+    <cost>5</cost>
+    <text>
+        <line>Worth 1%VP% per Duchy you have.</line>
+    </text>
+</card>

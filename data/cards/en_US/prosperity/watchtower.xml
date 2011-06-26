@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Watchtower</name>
+    <set>prosperity</set>
+    <type typeTemplate="reaction">Action - Reaction</type>
+    <cost>3</cost>
+    <text>
+        <line>Draw until you have 6 cards in hand.</line>
+        <line style="separator">----------</line>
+        <line>When you gain a card, you may reveal this from your hand. If you do, either trash that card, or put it on top of your deck.</line>
+    </text>
+</card>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Apprentice</name>
+    <set>alchemy</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line>+1 Action</line>
+        <line>Trash a card from your hand.</line>
+        <line>+1 Card per Coin it costs.</line>
+        <line>+2 Cards if it has Potion in its cost.</line>
+    </text>
+</card>

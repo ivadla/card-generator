@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Herbalist</name>
+    <set>alchemy</set>
+    <type typeTemplate="action">Action</type>
+    <cost>2</cost>
+    <text>
+        <line>+1 Buy</line>
+        <line>+1 Coin</line>
+        <line>When you discard this from play, you may put one of your Treasures from play on top of your deck.</line>
+    </text>
+</card>

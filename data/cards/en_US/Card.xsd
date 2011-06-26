@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/Card" xmlns:tns="http://www.example.org/Card" elementFormDefault="qualified">
+
+    <element name="card" type="tns:card"></element>
+    
+
+
+
+
+
+
+    <complexType name="card">
+    	<sequence>
+    		<element name="name" type="string" maxOccurs="1"
+    			minOccurs="1">
+    		</element>
+    		<element name="set" type="string" maxOccurs="1"
+    			minOccurs="1">
+    		</element>
+    		<element name="type" maxOccurs="1" minOccurs="1">
+    			<complexType>
+    				<simpleContent>
+    					<extension base="string">
+    						<attribute name="typeTemplate"
+    							type="tns:typeTemplateType">
+    						</attribute>
+    					</extension>
+    				</simpleContent>
+    			</complexType>
+    		</element>
+    		<element name="cost" type="int" maxOccurs="1"
+    			minOccurs="1">
+    		</element>
+    		<element name="potionCost" type="int" maxOccurs="1"
+    			minOccurs="0">
+    		</element>
+            <element name="costIsSpecial" type="boolean" maxOccurs="1" minOccurs="0">
+    		</element>
+            <element name="coinValue" type="int" maxOccurs="1"
+    			minOccurs="0">
+    		</element>
+    		<element name="victoryPointValue" type="int" maxOccurs="1"
+    			minOccurs="0">
+    		</element>
+    		<element name="text" type="tns:textType" maxOccurs="1"
+    			minOccurs="0">
+    		</element>
+    	</sequence>
+    </complexType>
+
+    <simpleType name="typeTemplateType">
+    	<restriction base="string">
+    		<enumeration value="action"></enumeration>
+    		<enumeration value="action-victory"></enumeration>
+    		<enumeration value="basic-treasure"></enumeration>
+    		<enumeration value="basic-victory"></enumeration>
+    		<enumeration value="duration"></enumeration>
+    		<enumeration value="reaction"></enumeration>
+    		<enumeration value="treasure"></enumeration>
+    		<enumeration value="treasure-victory"></enumeration>
+    		<enumeration value="victory"></enumeration>
+    	</restriction>
+    </simpleType>
+
+    <complexType name="textType">
+    	<sequence>
+    		<element name="line" type="tns:lineType" maxOccurs="unbounded" minOccurs="1"></element>
+    	</sequence>
+    </complexType>
+
+    <complexType name="lineType">
+    	<simpleContent>
+    		<extension base="string">
+    			<attribute name="style">
+    				<simpleType>
+    					<restriction base="string">
+    						<enumeration value="italic"></enumeration>
+    						<enumeration value="bold"></enumeration>
+    						<enumeration value="separator"></enumeration>
+    					</restriction>
+    				</simpleType>
+    			</attribute>
+    		</extension>
+    	</simpleContent>
+    </complexType>
+</schema>

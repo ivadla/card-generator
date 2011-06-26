@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Horn of Plenty</name>
+    <set>cornucopia</set>
+    <type typeTemplate="treasure">Treasure</type>
+    <cost>5</cost>
+    <coinValue>0</coinValue>
+    <text>
+        <line>When you play this, gain a card costing up to $1$ per differently named card you have in play, counting this. If it's a Victory card, trash this.</line>
+    </text>
+</card>

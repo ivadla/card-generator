@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Platinum</name>
+    <set>prosperity</set>
+    <type typeTemplate="basic-treasure">Treasure</type>
+    <cost>9</cost>
+    <coinValue>5</coinValue>
+</card>

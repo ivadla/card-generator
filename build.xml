@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="jdominion" default="compile" basedir=".">
+	<property name="src.dir" value="src" />
+	<property name="lib.dir" value="libs" />
+	<property name="build.dir" value="build" />
+	<property name="main-class" value="Main" />
+	<property name="jarfile" value="card-generator.jar" />
+
+	<path id="build-classpath">
+		<fileset dir="${lib.dir}" includes="**/*.jar" />
+	</path>
+
+	<target name="clean">
+		<delete dir="${build.dir}" />
+		<delete file="${jarfile}" />
+	</target>
+	<target name="compile">
+		<mkdir dir="${build.dir}" />
+		<javac srcdir="${src.dir}" destdir="${build.dir}" classpathref="build-classpath" includeantruntime="false" />
+	</target>
+	
+	<target name="jar" depends="compile">
+		<manifestclasspath property="lib.list" jarfile="${jarfile}">
+	    	<classpath refid="build-classpath"/>
+		</manifestclasspath>
+        <jar destfile="${jarfile}" basedir="${build.dir}" >
+            <manifest>
+                <attribute name="Main-Class" value="${main-class}"/>
+            	<attribute name="Class-Path" value="${lib.list}"/>
+            </manifest>
+        </jar>
+    </target>
+
+    <target name="run" depends="jar">
+        <java fork="true" classname="${main-class}" >
+            <classpath>
+                <path location="${jarfile}"/>
+            </classpath>
+        </java>
+    </target>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Harvest</name>
+    <set>cornucopia</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line>Reveal the top 4 cards of your deck, then discard them. +$1$ per differently named card revealed.</line>
+    </text>
+</card>

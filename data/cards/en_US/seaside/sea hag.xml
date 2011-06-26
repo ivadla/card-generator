@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Sea Hag</name>
+    <set>seaside</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>4</cost>
+    <text>
+        <line>Each other player discards the top card of his deck, then gains a Curse card, putting it on top of his deck.</line>
+    </text>
+</card>

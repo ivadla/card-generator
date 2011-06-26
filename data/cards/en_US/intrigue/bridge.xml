@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Bridge</name>
+    <set>intrigue</set>
+    <type typeTemplate="action">Action</type>
+    <cost>4</cost>
+    <text>
+        <line style="bold">+1 Buy</line>
+        <line style="bold">+$1$</line>
+        <line></line>
+        <line>All cards (including cards in players' hands) cost $1$ less this turn, but not less than $0$.</line>
+    </text>
+</card>

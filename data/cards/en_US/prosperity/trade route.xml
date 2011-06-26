@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Trade Route</name>
+    <set>prosperity</set>
+    <type typeTemplate="action">Action</type>
+    <cost>3</cost>
+    <text>
+        <line style="bold">+1 Buy</line>
+        <line>+$1$ per token on the Trade Route mat.</line>
+        <line>Trash a card from your hand.</line>
+        <line style="separator">----------</line>
+        <line>Setup: Put a token on each Victory card Supply pile. When a card is gained from that pile, move the token to the Trade Route mat.</line>
+    </text>
+</card>

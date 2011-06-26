@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Transmute</name>
+    <set>alchemy</set>
+    <type typeTemplate="action">Action</type>
+    <cost>0</cost>
+    <potionCost>1</potionCost>
+    <text>
+        <line>Trash a card from your hand.</line>
+        <line>If it is an...</line>
+        <line>Action card, gain a Duchy</line>
+        <line>Treasure card, gain a Transmute</line>
+        <line>Victory card, gain a Gold</line>
+    </text>
+</card>

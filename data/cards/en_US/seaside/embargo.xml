@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Embargo</name>
+    <set>seaside</set>
+    <type typeTemplate="action">Action</type>
+    <cost>2</cost>
+    <text>
+        <line>+$2$</line>
+        <line>Trash this card. Put an Embargo token on top of a Supply pile.</line>
+        <line style="separator"></line>
+        <line>When a player buys a card, he gains a Curse card per Embargo token on that pile.</line>
+    </text>
+</card>

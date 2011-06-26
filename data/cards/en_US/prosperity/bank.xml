@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Bank</name>
+    <set>prosperity</set>
+    <type typeTemplate="treasure">Treasure</type>
+    <cost>7</cost>
+    <text>
+        <line>When you play this, it's worth $1$ per Treasure card you have in play (counting this).</line>
+    </text>
+</card>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Ironworks</name>
+    <set>intrigue</set>
+    <type typeTemplate="action">Action</type>
+    <cost>4</cost>
+    <text>
+        <line>Gain a card costing up to $4$.</line>
+        <line></line>
+        <line>If it is an...</line>
+        <line>Action card, +1 Action</line>
+        <line>Treasure card, +$1$</line>
+        <line>Victory card, +1 Card.</line>
+    </text>
+</card>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Island</name>
+    <set>seaside</set>
+    <type typeTemplate="action-victory">Action - Victory</type>
+    <cost>4</cost>
+    <text>
+        <line>Set aside this and another card from your hand. Return them to your deck at the end of the game.</line>
+    </text>
+</card>

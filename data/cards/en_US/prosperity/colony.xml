@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Colony</name>
+    <set>prosperity</set>
+    <type typeTemplate="basic-victory">Victory</type>
+    <cost>11</cost>
+    <victoryPointValue>10</victoryPointValue>
+</card>

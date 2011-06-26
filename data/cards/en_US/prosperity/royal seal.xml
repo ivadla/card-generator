@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Royal Seal</name>
+    <set>prosperity</set>
+    <type typeTemplate="treasure">Treasure</type>
+    <coinValue>2</coinValue>
+    <cost>5</cost>
+    <text>
+        <line style="separator">----------</line>
+        <line>While this is in play, when you gain a card, you may put that card on top of your deck.</line>
+    </text>
+</card>

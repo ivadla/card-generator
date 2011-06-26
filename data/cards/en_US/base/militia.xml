@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Militia</name>
+    <set>base</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>4</cost>
+    <text>
+        <line>+$2$</line>
+        <line></line>
+        <line>Each other player discards down to 3 cards in his hand.</line>
+    </text>
+</card>

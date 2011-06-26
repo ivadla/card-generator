@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Pawn</name>
+    <set>intrigue</set>
+    <type typeTemplate="action">Action</type>
+    <cost>2</cost>
+    <text>
+        <line>Choose two:</line>
+        <line>+1 Card</line>
+        <line>+1 Action</line>
+        <line>+1 Buy</line>
+        <line>+$1$</line>
+        <line>(The choices must be different.)</line>
+    </text>
+</card>

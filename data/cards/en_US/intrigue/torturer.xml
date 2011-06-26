@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Torturer</name>
+    <set>intrigue</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>5</cost>
+    <text>
+        <line style="bold">+3 Cards</line>
+        <line></line>
+        <line>Each other player chooses one: he discards 2 cards; or he gains a Curse card, putting it in his hand.</line>
+    </text>
+</card>

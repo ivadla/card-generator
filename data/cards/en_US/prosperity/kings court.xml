@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>King's Court</name>
+    <set>prosperity</set>
+    <type typeTemplate="action">Action</type>
+    <cost>7</cost>
+    <text>
+        <line>You may choose an Action card in your hand. Play it three times.</line>
+    </text>
+</card>

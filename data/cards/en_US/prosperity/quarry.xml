@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Quarry</name>
+    <set>prosperity</set>
+    <type typeTemplate="treasure">Treasure</type>
+    <coinValue>1</coinValue>
+    <cost>4</cost>
+    <text>
+        <line style="separator">----------</line>
+        <line>While this is in play, Action cards cost $2$ less, but not less than $0$.</line>
+    </text>
+</card>

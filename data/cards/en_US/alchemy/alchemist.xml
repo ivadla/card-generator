@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Alchemist</name>
+    <set>alchemy</set>
+    <type typeTemplate="action">Action</type>
+    <cost>3</cost>
+    <potionCost>1</potionCost>
+    <text>
+        <line>+2 Cards</line>
+        <line>+1 Action</line>
+        <line>When you discard this from play, you may put this on top of your deck if you have a Potion in play.</line>
+    </text>
+</card>

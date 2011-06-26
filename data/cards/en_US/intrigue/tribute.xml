@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Tribute</name>
+    <set>intrigue</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line>The player to your left reveals then discards the top 2 cards of his deck. For each differently named card revealed, if it is an...</line>
+        <line>Action Card, +2 Actions</line>
+        <line>Treasure Card, +$2$</line>
+        <line>Victory Card, +2 Cards</line>
+    </text>
+</card>

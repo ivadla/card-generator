@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Ambassador</name>
+    <set>seaside</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>3</cost>
+    <text>
+        <line>Reveal a card from your hand. Return up to 2 copies of it from your hand to the Supply. Then each other player gains a copy of it.</line>
+    </text>
+</card>

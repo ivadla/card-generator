@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Woodcutter</name>
+    <set>base</set>
+    <type typeTemplate="action">Action</type>
+    <cost>3</cost>
+    <text>
+        <line style="bold">+1 Buy</line>
+        <line style="bold">+$2$</line>
+    </text>
+</card>

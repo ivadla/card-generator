@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Adventurer</name>
+    <set>base</set>
+    <type typeTemplate="action">Action</type>
+    <cost>6</cost>
+    <text>
+        <line>Reveal cards from your deck until you reveal 2 Treasure cards. Put those Treasure cards into your hand and discard the other revealed cards.</line>
+    </text>
+</card>

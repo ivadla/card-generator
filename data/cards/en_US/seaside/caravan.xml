@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Caravan</name>
+    <set>seaside</set>
+    <type typeTemplate="duration">Action - Duration</type>
+    <cost>4</cost>
+    <text>
+        <line style="bold">+1 Card</line>
+        <line style="bold">+1 Action</line>
+        <line></line>
+        <line>At the start of your next turn, +1 Card.</line>
+    </text>
+</card>

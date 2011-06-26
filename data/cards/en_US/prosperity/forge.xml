@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Forge</name>
+    <set>prosperity</set>
+    <type typeTemplate="action">Action</type>
+    <cost>7</cost>
+    <text>
+        <line>Trash any number of cards from your hand. Gain a card with cost exactly equal to the total cost in coins of the trashed cards.</line>
+    </text>
+</card>

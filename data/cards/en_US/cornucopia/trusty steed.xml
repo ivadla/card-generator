@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Trusty Steed</name>
+    <set>cornucopia</set>
+    <type typeTemplate="action">Action - Prize</type>
+    <cost>0</cost>
+    <costIsSpecial>true</costIsSpecial>
+    <text>
+        <line>Choose two: +2 Cards; +2 Actions; +$2$; gain 4 Silvers and put your deck into your discard pile.</line>
+        <line>(The choices must be different.)</line>
+        <line></line>
+        <line style="italic">(This is not in the Supply.)</line>
+    </text>
+</card>

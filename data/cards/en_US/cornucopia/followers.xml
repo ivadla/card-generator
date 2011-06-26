@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Followers</name>
+    <set>cornucopia</set>
+    <type typeTemplate="action">Action-Attack-Prize</type>
+    <cost>0</cost>
+    <costIsSpecial>true</costIsSpecial>
+    <text>
+        <line style="bold">+2 Cards</line>
+        <line></line>
+        <line>Gain an Estate. Each other player gains a Curse and discards down to 3 cards in hand.</line>
+        <line></line>
+        <line style="italic">(This is not in the Supply.)</line>
+    </text>
+</card>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardImage xsi:noNamespaceSchemaLocation="CardImage.xsd">
+  <!-- The file is relative to this xml file. It can be a svg, png or jpg -->
+  <file>FILENAME</file>
+  <!-- scale makes the image bigger or smaller than the placeholder image from the template. The default is 1.0 -->
+  <scale>1.1</scale>
+  <!-- adds a drop shadow. The number is the stdDeviation of the GaussianBlur filter which is used for the shadow -->
+  <shadow>2.0</shadow>
+  <behindTextBackground>false</behindTextBackground>
+</cardImage>

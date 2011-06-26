@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Talisman</name>
+    <set>prosperity</set>
+    <type typeTemplate="treasure">Treasure</type>
+    <cost>4</cost>
+    <coinValue>1</coinValue>
+    <text>
+        <line style="separator">----------</line>
+        <line>While this is in play, when you buy a card costing $4$ or less that is not a Victory card, gain a copy of it.</line>
+    </text>
+</card>

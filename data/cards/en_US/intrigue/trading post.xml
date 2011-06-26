@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Trading Post</name>
+    <set>intrigue</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line>Trash 2 cards from your hand. If you do, gain a Silver card; put it into your hand.</line>
+    </text>
+</card>

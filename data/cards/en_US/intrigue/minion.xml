@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Minion</name>
+    <set>intrigue</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>5</cost>
+    <text>
+    	<line style="bold">+1 Action</line>
+    	<line></line>
+        <line>Choose one: +$2$; or discard your hand, +4 Cards, and each other player with at least 5 cards in hand discards his hand and draws 4 cards.</line>
+    </text>
+</card>

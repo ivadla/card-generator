@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Harem</name>
+    <set>intrigue</set>
+    <coinValue>2</coinValue>
+    <victoryPointValue>2</victoryPointValue>
+    <type typeTemplate="treasure-victory">Treasure - Victory</type>
+    <cost>6</cost>
+</card>

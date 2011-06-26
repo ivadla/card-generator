@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Princess</name>
+    <set>cornucopia</set>
+    <type typeTemplate="action">Action - Prize</type>
+    <cost>0</cost>
+    <costIsSpecial>true</costIsSpecial>
+    <text>
+        <line style="bold">+1 Buy</line>
+        <line style="separator">________________</line>
+        <line>While this is in play, cards cost $2$ less, but not less than $0$.</line>
+        <line></line>
+        <line style="italic">(This is not in the Supply.)</line>
+    </text>
+</card>

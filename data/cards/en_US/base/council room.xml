@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Council Room</name>
+    <set>base</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line style="bold">+4 Cards</line>
+        <line style="bold">+1 Buy</line>
+        <line></line>
+        <line>Each other player draws a card.</line>
+    </text>
+</card>

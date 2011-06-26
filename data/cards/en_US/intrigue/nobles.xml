@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Nobles</name>
+    <set>intrigue</set>
+    <type typeTemplate="action-victory">Action - Victory</type>
+    <victoryPointValue>2</victoryPointValue>
+    <cost>6</cost>
+    <text>
+        <line>Choose one: +3 Cards, or +2 Actions.</line>
+    </text>
+</card>

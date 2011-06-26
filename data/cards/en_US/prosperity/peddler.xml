@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Peddler</name>
+    <set>prosperity</set>
+    <type typeTemplate="action">Action</type>
+    <cost>8</cost>
+    <costIsSpecial>true</costIsSpecial>
+    <text>
+        <line style="bold">+1 Card</line>
+        <line style="bold">+1 Action</line>
+        <line style="bold">+$1$</line>
+        <line style="separator">----------</line>
+        <line>During your Buy phase, this costs $2$ less per Action card you have in play, but not less than $0$.</line>
+    </text>
+</card>

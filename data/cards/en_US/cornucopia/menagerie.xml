@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Menagerie</name>
+    <set>cornucopia</set>
+    <type typeTemplate="action">Action</type>
+    <cost>3</cost>
+    <text>
+        <line style="bold">+1 Action</line>
+        <line></line>
+        <line>Reveal your hand.</line>
+        <line>If there are no duplicate cards in it, +3 Cards.</line>
+        <line>Otherwise, +1 Card.</line>
+    </text>
+</card>
