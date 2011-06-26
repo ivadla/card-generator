@@ -2,6 +2,8 @@ This is a card generator for dominion cards. It takes a template(svg), a card de
 an image for the card(svg, png or jpg) and a specification for the image and generates the card
 as a svg-file.
 
+This program is licensed under the GPL.
+
 Compile and Run:
 ----------------
 Basically you just have to compile all the java files in the src directory 
