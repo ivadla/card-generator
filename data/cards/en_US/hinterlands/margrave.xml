@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Margrave</name>
+    <set>hinterlands</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>5</cost>
+    <text>
+        <line style="bold">+3 Cards</line>
+        <line style="bold">+1 Buy</line>
+        <line>Each other player draws a card, then discards down to 3 cards in hand.</line>
+    </text>
+</card>

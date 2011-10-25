@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Nomad Camp</name>
+    <set>hinterlands</set>
+    <type typeTemplate="action">Action</type>
+    <cost>4</cost>
+    <text>
+        <line style="bold">+1 Buy</line>
+        <line>+$2$</line>
+        <line style="separator"></line>
+        <line>When you gain this, put it on top of your deck.</line>
+    </text>
+</card>

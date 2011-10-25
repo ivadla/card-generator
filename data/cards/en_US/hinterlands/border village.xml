@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Border Village</name>
+    <set>hinterlands</set>
+    <type typeTemplate="action">Action</type>
+    <cost>6</cost>
+    <text>
+        <line style="bold">+1 Card</line>
+        <line style="bold">+2 Actions</line>
+        <line style="separator"></line>
+        <line>When you gain this, gain a card costing less than this.</line>
+    </text>
+</card>

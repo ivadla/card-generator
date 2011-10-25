@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Embassy</name>
+    <set>hinterlands</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line style="bold">+5 Cards</line>
+        <line>Discard 3 cards.</line>
+        <line style="separator"></line>
+        <line>When you gain this, each other player gains a Silver.</line>
+    </text>
+</card>

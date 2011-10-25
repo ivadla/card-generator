@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Farmland</name>
+    <set>hinterlands</set>
+    <type typeTemplate="victory">Victory</type>
+    <cost>6</cost>
+    <victoryPointValue>2</victoryPointValue>
+    <text>
+        <line style="separator"></line>
+        <line>When you buy this, trash a card from your hand. Gain a card costing exactly $2$ more than the trashed card.</line>
+    </text>
+</card>

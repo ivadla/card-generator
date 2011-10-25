@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Inn</name>
+    <set>hinterlands</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line style="bold">+2 Cards</line>
+        <line style="bold">+2 Actions</line>
+        <line>Discard 2 cards.</line>
+        <line>When you gain this, look through your discard pile (including this), reveal any number of Action cards from it, and shuffle them into your deck.</line>
+    </text>
+</card>

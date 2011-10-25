@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Ill-Gotten Gains</name>
+    <set>hinterlands</set>
+    <type typeTemplate="treasure">Treasure</type>
+    <cost>5</cost>
+    <coinValue>1</coinValue>
+    <text>
+        <line>When you play this, you may gain a Copper, putting it into your hand.</line>
+        <line style="separator"></line>
+        <line>When you gain this, each other player gains a Curse.</line>
+    </text>
+</card>

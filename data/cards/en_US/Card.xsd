@@ -57,8 +57,10 @@
     		<enumeration value="duration"></enumeration>
     		<enumeration value="reaction"></enumeration>
     		<enumeration value="treasure"></enumeration>
+    		<enumeration value="treasure-reaction"></enumeration>
     		<enumeration value="treasure-victory"></enumeration>
     		<enumeration value="victory"></enumeration>
+    		<enumeration value="victory-reaction"></enumeration>
     	</restriction>
     </simpleType>
 

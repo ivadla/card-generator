@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Spice Merchant</name>
+    <set>hinterlands</set>
+    <type typeTemplate="action">Action</type>
+    <cost>4</cost>
+    <text>
+        <line>You may trash a Treasure from your hand. If you do, choose one:</line>
+        <line>+2 Cards and +1 Action;</line>
+        <line>or +$2$ and +1 Buy.</line>
+    </text>
+</card>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Haggler</name>
+    <set>hinterlands</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line>+$2$</line>
+        <line style="separator"></line>
+        <line>While this is in play, when you buy a card, gain a card costing less than it that is not a Victory card.</line>
+    </text>
+</card>

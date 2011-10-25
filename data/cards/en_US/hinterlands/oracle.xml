@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Oracle</name>
+    <set>hinterlands</set>
+    <type typeTemplate="action">Action - Attack</type>
+    <cost>3</cost>
+    <text>
+        <line>Each player (including you) reveals the top 2 cards of his deck, and you choose one: either he discards them, or he puts them back on top in an order he chooses.</line>
+        <line style="bold">+2 Cards</line>
+    </text>
+</card>

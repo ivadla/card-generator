@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Fool's Gold</name>
+    <set>hinterlands</set>
+    <type typeTemplate="treasure-reaction">Treasure - Reaction</type>
+    <cost>2</cost>
+    <text>
+        <line>If this is the first time you played a Fool's Gold this turn, this is worth $1$, otherwise it's worth $4$.</line>
+        <line style="separator"></line>
+        <line>When another player gains a Province, you may trash this from your hand. If you do, gain a Gold, putting it on your deck.</line>
+    </text>
+</card>

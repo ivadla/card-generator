@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Develop</name>
+    <set>hinterlands</set>
+    <type typeTemplate="action">Action</type>
+    <cost>3</cost>
+    <text>
+        <line>Trash a card from your hand. Gain a card costing exactly $1$ more than it and a card costing exactly $1$ less than it, in either order, putting them on top of your deck.</line>
+    </text>
+</card>

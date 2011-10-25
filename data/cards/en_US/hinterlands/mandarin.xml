@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Mandarin</name>
+    <set>hinterlands</set>
+    <type typeTemplate="action">Action</type>
+    <cost>5</cost>
+    <text>
+        <line>+$3$</line>
+        <line>Put a card from your hand on top of your deck.</line>
+        <line style="separator"></line>
+        <line>When you gain this, put all Treasures you have in play on top of your deck in any order.</line>
+    </text>
+</card>

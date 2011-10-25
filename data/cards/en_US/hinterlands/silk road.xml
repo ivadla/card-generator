@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Silk Road</name>
+    <set>hinterlands</set>
+    <type typeTemplate="victory">Victory</type>
+    <cost>4</cost>
+    <text>
+        <line>Worth 1 %VP% for every 4 Victory cards in your deck (round down).</line>
+    </text>
+</card>

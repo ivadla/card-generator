@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Tunnel</name>
+    <set>hinterlands</set>
+    <type typeTemplate="victory-reaction">Victory - Reaction</type>
+    <cost>3</cost>
+    <victoryPointValue>2</victoryPointValue>
+    <text>
+        <line style="separator"></line>
+        <line>When you discard this other than during a Clean-up phase, you may reveal it. If you do, gain a Gold.</line>
+    </text>
+</card>

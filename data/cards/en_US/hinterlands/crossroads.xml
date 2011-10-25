@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Crossroads</name>
+    <set>hinterlands</set>
+    <type typeTemplate="action">Action</type>
+    <cost>2</cost>
+    <text>
+        <line>Reveal your hand.</line>
+        <line>+1 Card per Victory card revealed.</line>
+        <line>If this is the first time you played a Crossroads this turn, +3 Actions.</line>
+    </text>
+</card>

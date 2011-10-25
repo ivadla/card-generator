@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Cache</name>
+    <set>hinterlands</set>
+    <type typeTemplate="treasure">Treasure</type>
+    <cost>5</cost>
+    <coinValue>3</coinValue>
+    <text>
+        <line style="separator"></line>
+        <line>When you gain this, gain two Coppers.</line>
+    </text>
+</card>

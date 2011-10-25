@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Duchess</name>
+    <set>hinterlands</set>
+    <type typeTemplate="action">Action</type>
+    <cost>2</cost>
+    <text>
+        <line>+$2$</line>
+        <line>Each player (including you) looks at the top card of his deck, and discards it or puts it back.</line>
+        <line style="separator"></line>
+        <line>In games using this, when you gain a Duchy, you may gain a Duchess.</line>
+    </text>
+</card>

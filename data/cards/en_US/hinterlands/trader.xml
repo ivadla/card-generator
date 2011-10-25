@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card xsi:noNamespaceSchemaLocation="../Card.xsd">
+    <name>Trader</name>
+    <set>hinterlands</set>
+    <type typeTemplate="reaction">Action - Reaction</type>
+    <cost>4</cost>
+    <text>
+        <line>Trash a card from your hand. Gain a number of Silvers equal to its cost in coins.</line>
+        <line style="separator"></line>
+        <line>When you would gain a card, you may reveal this from your hand. If you do, instead, gain a Silver.</line>
+    </text>
+</card>
